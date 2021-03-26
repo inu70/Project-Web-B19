@@ -69,7 +69,7 @@ header {
 /*top content*/
 .top-content {
 	padding: 180px 0 100px 0;
-  background-image: url('gambar/background.png');
+  background-image: url('background.png');
   background-size: cover;
   color: white;
   text-align: center;
